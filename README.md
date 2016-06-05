@@ -1,1 +1,1 @@
-# bryanmytko.github.io
+bryanmytko.github.io
